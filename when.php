@@ -25,18 +25,18 @@ function timeToAgo($time){
     $diff=$diff%(60);
 
     switch(true){
-        case ($year === 1)  : return "one year ago"     ; break;
-        case ($year > 1)    : return "$year years ago"  ; break;
-        case ($month === 1) : return "a month ago"      ; break;
-        case ($month > 1)   : return "$month years ago" ; break;
-        case ($week === 1)  : return "a week ago"       ; break;
-        case ($week > 1)    : return "$week weeks ago"  ; break;
-        case ($day === 1)   : return "yesterday"        ; break;
-        case ($day > 1)     : return "$day days ago"    ; break;
-        case ($hour === 1)  : return "an hour ago"      ; break;
-        case ($hour > 1)    : return "$hour hours ago"  ; break;
-        case ($min === 1)   : return "one minute ago"   ; break;
-        case ($min > 1)     : return "$min minutes ago" ; break;
+        case ($year === 1)  : return "one year ago"      ; break;
+        case ($year > 1)    : return "$year years ago"   ; break;
+        case ($month === 1) : return "a month ago"       ; break;
+        case ($month > 1)   : return "$month months ago" ; break;
+        case ($week === 1)  : return "a week ago"        ; break;
+        case ($week > 1)    : return "$week weeks ago"   ; break;
+        case ($day === 1)   : return "yesterday"         ; break;
+        case ($day > 1)     : return "$day days ago"     ; break;
+        case ($hour === 1)  : return "an hour ago"       ; break;
+        case ($hour > 1)    : return "$hour hours ago"   ; break;
+        case ($min === 1)   : return "one minute ago"    ; break;
+        case ($min > 1)     : return "$min minutes ago"  ; break;
     }
 }
 
