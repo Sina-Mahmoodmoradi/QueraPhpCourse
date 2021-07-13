@@ -1,0 +1,7 @@
+<?php
+
+
+interface Shape
+{
+    public function getArea(): float;
+}
