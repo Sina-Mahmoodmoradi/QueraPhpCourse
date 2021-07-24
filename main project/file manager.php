@@ -10,7 +10,7 @@ function createFile($name, $address)
 function createDirectory($name, $address){
     if($address==='')$address='.';
     if(file_exists($address.'/'.$name))return;
-    mkdir($address.'/'.$name);
+    mkdir($address.'/'.$name,0777,true);
 }
 //---------------------------------------
 function getFile($name, $address):string
@@ -42,7 +42,7 @@ function copyFile($from, $to)
 //---------------------------------------
 function deleteFile($name, $address){
     if($address==='')$address='.';
-    if(file_exists($address.'/'.$name))unlink($name);
+    if(file_exists($address.'/'.$name))unlink($address.'/'.$name);
 }
 //---------------------------------------
 function deleteDirectory($address)
@@ -92,3 +92,22 @@ function searchFile($name, $address)
     }
     return $results;
 }
+
+createDirectory("test", "");
+createDirectory("tests", ".");
+createDirectory("test1", "test");
+createDirectory("test2", "test/test1");
+createFile("file1.txt", ".");
+createFile("file2.txt", "test");
+createFile("file3.txt", "test/test1");
+createFile("file4.txt", "test/test1");
+createFile("file4.txt", "test/test1/test2");
+editFile("file1.txt", ".", "content1");
+editFile("file4.txt", "test/test1/test2", "content2");
+copyFile("file1.txt", "test/file5.txt");
+deleteFile("file3.txt", "test/test1");
+deleteDirectory("tests");
+moveFile("test/file5.txt", "test/file6.txt");
+echo getFile("file6.txt", "test");
+echo "\n";
+print_r(searchFile("file4.txt", "test"));

@@ -1,0 +1,28 @@
+body {
+    direction: rtl;
+    font-family: Vazir, Arial, sans-serif;
+}
+
+.title {
+    text-align: center;
+}
+
+.box .box-body {
+    position: relative;
+    max-width: 80%;
+    height: auto;
+    margin: 0 auto;
+    padding: 5px;
+    background-color: #616161;
+    border-radius: 3px;
+    border: 5px solid #424242;
+}
+
+.box + .box {
+    margin-top: 10px;
+}
+
+.message {
+    border-radius: 3px;
+    color: white;
+}
