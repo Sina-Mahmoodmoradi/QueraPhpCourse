@@ -1,0 +1,1 @@
+{"schema":{"first_name":{"nullable":false},"last_name":{"nullable":true},"country":{"nullable":true,"default":"Iran"}},"data":[{"first_name":"John","last_name":"Smith","country":"U.S."},{"first_name":"Ali","last_name":null,"country":"Iran"},{"first_name":"Ali","last_name":"AliZadeh","country":"Iran"},{"first_name":"Ali","last_name":"AliZadeh","country":"Iran"}]}
