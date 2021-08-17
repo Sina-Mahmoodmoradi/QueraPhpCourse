@@ -4,11 +4,37 @@ class Author extends Model
 {
     public function all()
     {
-        // TODO: Implement all method here
+        $db= Base::getInstance()->get('DB');
+        $sql= "SELECT 
+                    authors.id AS id, 
+                    authors.name AS name, 
+                    COUNT(books.id) AS co
+               FROM authors JOIN books
+               ON authors.id = books.author_id
+               GROUP BY id
+               ";
+        $stmt= $db->prepare($sql);
+        $stmt->execute();
+        $results=[];
+        while ($row= $stmt->fetch()){
+            $author=new Author([
+                'id'=>(int)$row['id'],
+                'name'=>$row['name'],
+                'books_count'=>(int)$row['co']
+            ]);
+            $results[]=$author;
+        }
+        return $results;
     }
 
     public function count()
     {
-        // TODO: Implement count method here
+        $db= Base::getInstance()->get('DB');
+        $sql= "SELECT COUNT(distinct(authors.id)) AS co
+               FROM authors JOIN books
+               ON authors.id = books.author_id";
+        $stmt= $db->prepare($sql);
+        $stmt->execute();
+        return (int)$stmt->fetch()['co'];
     }
 }
