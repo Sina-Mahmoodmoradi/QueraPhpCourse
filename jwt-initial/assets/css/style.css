@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Vazir, Arial, sans-serif;
+    text-decoration: none;
+}
+body {
+    direction: rtl;
+    background: #5c2fab;
+}
+a:focus, button:focus {
+    outline: none;
+}
+.login-form {
+    max-width: 600px;
+    background: #673AB7;
+    padding: 30px 60px;
+    margin: 50px auto 0px;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.input-box {
+    width: 100%;
+    height: 50px;
+    position: relative;
+    margin-top: 15px;
+}
+.input-box input {
+    width: 100%;
+    height: 50px;
+    border: none;
+    background: #ffffff;
+    padding: 0 15px;
+    font-size: 16px;
+    outline: none;
+    color: #5c2fab;
+    border-radius: 4px;
+}
+.remember-pwd{
+    margin-top: 15px;
+    color: #f4f4f4;
+    overflow: hidden;
+    font-size: 14px;
+}
+.remember-pwd a{
+    color: #f4f4f4;
+    font-size: 14px;
+    float: left;
+}
+.remember{
+    float: right;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.checkbox {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    background: #5c2fab;
+    border-radius: 50px;
+    margin-left: 10px;
+    position: relative;
+    border: 2px solid #fff;
+}
+.checkbox input{
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    cursor: pointer;
+}
+.checked {
+    position: absolute;
+    right: 5px;
+    top: 2px;
+    width: 4px;
+    height: 10px;
+    border: solid #fff;
+    border-width: 0 0 2px 2px;
+    transform: rotate(45deg) scaleX(-1);
+    display: none;
+}
+.checkbox input:checked + .checked{
+    display: block;
+}
+.login-btn {
+    width: 100%;
+    margin-top: 30px;
+    background: #5c2fab;
+    border: none;
+    color: #fff;
+    outline: none;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 50px;
+    padding: 15px 0px;
+    transition: .3s linear;
+}
+.login-btn.active {
+    background: #ffffff;
+    color: #5c2fab;
+}

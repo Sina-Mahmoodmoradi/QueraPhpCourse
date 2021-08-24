@@ -1,3 +1,6 @@
 <?php
 
-// TODO: Implement SmsSendException class here
+class SmsSendException extends Exception
+{
+
+}

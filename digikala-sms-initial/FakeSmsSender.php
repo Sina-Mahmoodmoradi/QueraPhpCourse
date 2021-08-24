@@ -4,16 +4,25 @@ class FakeSmsSender implements SmsSenderInterface
 {
     public function sendMessages(array $numbers, array $bodies)
     {
-        // TODO: Implement sendMessages method here
+        if(count($numbers) > $this->getMessagesLimit()){
+            throw new SmsSendException('failed to send message');
+        }
+        $pattern='/^09[0-9]{9}$/';
+        foreach($numbers as $index => $number){
+            if(preg_match($pattern,$number))
+                echo $number.':'.$bodies[$index]."\n";
+            else
+                echo "Wrong number\n";
+        }
     }
 
     public function getMessagesLimit(): int
     {
-        // TODO: Implement getMessagesLimit method here
+        return 10;
     }
 
     public function getProviderName(): string
     {
-        // TODO: Implement getProviderName method here
+        return 'digi';
     }
 }
