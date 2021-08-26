@@ -1,0 +1,1809 @@
+{
+  "status": 0,
+  "data": [
+    {
+      "sell": 7890489999,
+      "buy": 7890490000,
+      "pair_id": 2,
+      "name": {
+        "fa": "\u0628\u06cc\u062a \u06a9\u0648\u06cc\u0646",
+        "en": "bitcoin\/rial"
+      },
+      "icon": "\/exchange\/img\/coins\/btc.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/2",
+      "base_precision": 5,
+      "quote_precision": 0,
+      "base_currency_id": 1,
+      "base_currency_symbol": {
+        "en": "btc",
+        "fa": "\u0628\u06cc\u062a \u06a9\u0648\u06cc\u0646"
+      },
+      "quote_currency_id": 2,
+      "quote_currency_symbol": {
+        "en": "irr",
+        "fa": "\u0631\u06cc\u0627\u0644"
+      },
+      "financial": {
+        "last24h": {
+          "open": 8321054538,
+          "close": 7890499250,
+          "highest": 8950000000,
+          "lowest": 7890499250,
+          "quote_volume": 29745782007,
+          "base_volume": 3.61256,
+          "change_percent": -5.17
+        }
+      },
+      "price_step": 7890489,
+      "amount_step": 0.00012,
+      "tv_symbol": {
+        "ramzinex": "btcirr",
+        "international": "BINANCE:BTCUSDT"
+      },
+      "show_order": 80
+    },
+    {
+      "sell": 244500,
+      "buy": 245233,
+      "pair_id": 11,
+      "name": {
+        "fa": "\u062a\u062a\u0631(\u062f\u0644\u0627\u0631)",
+        "en": "tether\/rial"
+      },
+      "icon": "\/exchange\/img\/coins\/usdt.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/11",
+      "base_precision": 2,
+      "quote_precision": 0,
+      "base_currency_id": 9,
+      "base_currency_symbol": {
+        "en": "usdt",
+        "fa": "\u062a\u062a\u0631"
+      },
+      "quote_currency_id": 2,
+      "quote_currency_symbol": {
+        "en": "irr",
+        "fa": "\u0631\u06cc\u0627\u0644"
+      },
+      "financial": {
+        "last24h": {
+          "open": 241100,
+          "close": 244809,
+          "highest": 249634,
+          "lowest": 238000,
+          "quote_volume": 181848214010,
+          "base_volume": 746683.25,
+          "change_percent": 1.53
+        }
+      },
+      "price_step": 244,
+      "amount_step": 4.08,
+      "tv_symbol": {
+        "ramzinex": "usdtirr",
+        "international": "BINANCE:BTCUSDT"
+      },
+      "show_order": 85
+    },
+    {
+      "sell": 1657,
+      "buy": 1580,
+      "pair_id": 52,
+      "name": {
+        "fa": "\u0647\u0648\u0644\u0648",
+        "en": "holo\/rial"
+      },
+      "icon": "\/exchange\/img\/coins\/hot.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/52",
+      "base_precision": 0,
+      "quote_precision": 0,
+      "base_currency_id": 37,
+      "base_currency_symbol": {
+        "en": "hot",
+        "fa": "\u0647\u0648\u0644\u0648"
+      },
+      "quote_currency_id": 2,
+      "quote_currency_symbol": {
+        "en": "irr",
+        "fa": "\u0631\u06cc\u0627\u0644"
+      },
+      "financial": {
+        "last24h": {
+          "open": 1648,
+          "close": 1610,
+          "highest": 1927,
+          "lowest": 1550,
+          "quote_volume": 3333772069,
+          "base_volume": 1989028,
+          "change_percent": -2.3
+        }
+      },
+      "price_step": 1,
+      "amount_step": 603,
+      "tv_symbol": {
+        "ramzinex": "hotirr",
+        "international": "BINANCE:HOTUSDT"
+      },
+      "show_order": 86
+    },
+    {
+      "sell": 53012,
+      "buy": 53000,
+      "pair_id": 10,
+      "name": {
+        "fa": "\u062f\u0648\u062c \u06a9\u0648\u06cc\u0646",
+        "en": "doge\/rial"
+      },
+      "icon": "\/exchange\/img\/coins\/doge.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/10",
+      "base_precision": 0,
+      "quote_precision": 0,
+      "base_currency_id": 7,
+      "base_currency_symbol": {
+        "en": "doge",
+        "fa": "\u062f\u0648\u062c \u06a9\u0648\u06cc\u0646"
+      },
+      "quote_currency_id": 2,
+      "quote_currency_symbol": {
+        "en": "irr",
+        "fa": "\u0631\u06cc\u0627\u0644"
+      },
+      "financial": {
+        "last24h": {
+          "open": 66499,
+          "close": 52973,
+          "highest": 70100,
+          "lowest": 49710,
+          "quote_volume": 215742947802,
+          "base_volume": 3590453,
+          "change_percent": -20.34
+        }
+      },
+      "price_step": 53,
+      "amount_step": 18,
+      "tv_symbol": {
+        "ramzinex": "dogeirr",
+        "international": "BINANCE:DOGEUSDT"
+      },
+      "show_order": 87
+    },
+    {
+      "sell": 315499,
+      "buy": 313999,
+      "pair_id": 33,
+      "name": {
+        "fa": "\u06a9\u0627\u0631\u062f\u0627\u0646\u0648",
+        "en": "cardano\/rial"
+      },
+      "icon": "\/exchange\/img\/coins\/ada.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/33",
+      "base_precision": 4,
+      "quote_precision": 0,
+      "base_currency_id": 19,
+      "base_currency_symbol": {
+        "en": "ada",
+        "fa": "\u06a9\u0627\u0631\u062f\u0627\u0646\u0648"
+      },
+      "quote_currency_id": 2,
+      "quote_currency_symbol": {
+        "en": "irr",
+        "fa": "\u0631\u06cc\u0627\u0644"
+      },
+      "financial": {
+        "last24h": {
+          "open": 333949,
+          "close": 315400,
+          "highest": 354097,
+          "lowest": 309520,
+          "quote_volume": 91247243018,
+          "base_volume": 277381.4839,
+          "change_percent": -5.55
+        }
+      },
+      "price_step": 315,
+      "amount_step": 3.1695,
+      "tv_symbol": {
+        "ramzinex": "adairr",
+        "international": "BINANCE:ADAUSDT"
+      },
+      "show_order": 88
+    },
+    {
+      "sell": 13231400,
+      "buy": 12501000,
+      "pair_id": 51,
+      "name": {
+        "fa": "\u0641\u0627\u06cc\u0644",
+        "en": "filecoin\/rial"
+      },
+      "icon": "\/exchange\/img\/coins\/fil.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/51",
+      "base_precision": 5,
+      "quote_precision": 0,
+      "base_currency_id": 33,
+      "base_currency_symbol": {
+        "en": "fil",
+        "fa": "\u0641\u0627\u06cc\u0644"
+      },
+      "quote_currency_id": 2,
+      "quote_currency_symbol": {
+        "en": "irr",
+        "fa": "\u0631\u06cc\u0627\u0644"
+      },
+      "financial": {
+        "last24h": {
+          "open": 15365250,
+          "close": 12600000,
+          "highest": 15520000,
+          "lowest": 12404000,
+          "quote_volume": 2304291026,
+          "base_volume": 166.81019,
+          "change_percent": -17.99
+        }
+      },
+      "price_step": 13231,
+      "amount_step": 0.07557,
+      "tv_symbol": {
+        "ramzinex": "filirr",
+        "international": "BINANCE:FILUSDT"
+      },
+      "show_order": 99
+    },
+    {
+      "sell": 98,
+      "buy": 97,
+      "pair_id": 48,
+      "name": {
+        "fa": "\u0648\u06cc\u0646\u06a9",
+        "en": "wink\/rial"
+      },
+      "icon": "\/exchange\/img\/coins\/win.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/48",
+      "base_precision": 1,
+      "quote_precision": 0,
+      "base_currency_id": 28,
+      "base_currency_symbol": {
+        "en": "win",
+        "fa": "\u0648\u06cc\u0646\u06a9"
+      },
+      "quote_currency_id": 2,
+      "quote_currency_symbol": {
+        "en": "irr",
+        "fa": "\u0631\u06cc\u0627\u0644"
+      },
+      "financial": {
+        "last24h": {
+          "open": 108,
+          "close": 97,
+          "highest": 113,
+          "lowest": 95,
+          "quote_volume": 64738781525,
+          "base_volume": 625448150.7,
+          "change_percent": -10.18
+        }
+      },
+      "price_step": 0,
+      "amount_step": 10101,
+      "tv_symbol": {
+        "ramzinex": "winirr",
+        "international": "BINANCE:WINUSDT"
+      },
+      "show_order": 100
+    },
+    {
+      "sell": 590,
+      "buy": 587,
+      "pair_id": 39,
+      "name": {
+        "fa": "\u0628\u06cc\u062a\u062a\u0648\u0631\u0646\u062a",
+        "en": "bittorrent\/rial"
+      },
+      "icon": "\/exchange\/img\/coins\/btt.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/39",
+      "base_precision": 1,
+      "quote_precision": 0,
+      "base_currency_id": 22,
+      "base_currency_symbol": {
+        "en": "btt",
+        "fa": "\u0628\u06cc\u062a\u062a\u0648\u0631\u0646\u062a"
+      },
+      "quote_currency_id": 2,
+      "quote_currency_symbol": {
+        "en": "irr",
+        "fa": "\u0631\u06cc\u0627\u0644"
+      },
+      "financial": {
+        "last24h": {
+          "open": 678,
+          "close": 582,
+          "highest": 721,
+          "lowest": 581,
+          "quote_volume": 27667156865,
+          "base_volume": 43486815.1,
+          "change_percent": -14.15
+        }
+      },
+      "price_step": 0,
+      "amount_step": 1692,
+      "tv_symbol": {
+        "ramzinex": "bttirr",
+        "international": "BINANCE:BTTUSDT"
+      },
+      "show_order": 101
+    },
+    {
+      "sell": 21341,
+      "buy": 21320,
+      "pair_id": 46,
+      "name": {
+        "fa": "\u0648\u06cc\u0686\u06cc\u0646",
+        "en": "vechain\/rial"
+      },
+      "icon": "\/exchange\/img\/coins\/vet.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/46",
+      "base_precision": 3,
+      "quote_precision": 0,
+      "base_currency_id": 27,
+      "base_currency_symbol": {
+        "en": "vet",
+        "fa": "\u0648\u06cc\u0686\u06cc\u0646"
+      },
+      "quote_currency_id": 2,
+      "quote_currency_symbol": {
+        "en": "irr",
+        "fa": "\u0631\u06cc\u0627\u0644"
+      },
+      "financial": {
+        "last24h": {
+          "open": 23036,
+          "close": 21320,
+          "highest": 24534,
+          "lowest": 21300,
+          "quote_volume": 1514038584,
+          "base_volume": 67341.728,
+          "change_percent": -7.44
+        }
+      },
+      "price_step": 21,
+      "amount_step": 46.855,
+      "tv_symbol": {
+        "ramzinex": "vetirr",
+        "international": "BINANCE:VETUSDT"
+      },
+      "show_order": 102
+    },
+    {
+      "sell": 2137858,
+      "buy": 1965000,
+      "pair_id": 44,
+      "name": {
+        "fa": "\u062a\u062a\u0627",
+        "en": "theta\/rial"
+      },
+      "icon": "\/exchange\/img\/coins\/theta.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/44",
+      "base_precision": 4,
+      "quote_precision": 0,
+      "base_currency_id": 26,
+      "base_currency_symbol": {
+        "en": "theta",
+        "fa": "\u062a\u062a\u0627"
+      },
+      "quote_currency_id": 2,
+      "quote_currency_symbol": {
+        "en": "irr",
+        "fa": "\u0631\u06cc\u0627\u0644"
+      },
+      "financial": {
+        "last24h": {
+          "open": 2089500,
+          "close": 2142850,
+          "highest": 2250000,
+          "lowest": 1950199,
+          "quote_volume": 992088771,
+          "base_volume": 469.1645,
+          "change_percent": 2.55
+        }
+      },
+      "price_step": 2137,
+      "amount_step": 0.4677,
+      "tv_symbol": {
+        "ramzinex": "thetairr",
+        "international": "BINANCE:THETAUSDT"
+      },
+      "show_order": 103
+    },
+    {
+      "sell": 2568089,
+      "buy": 2400006,
+      "pair_id": 42,
+      "name": {
+        "fa": "\u0627\u062a\u0645",
+        "en": "atom\/rial"
+      },
+      "icon": "\/exchange\/img\/coins\/atom.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/42",
+      "base_precision": 4,
+      "quote_precision": 0,
+      "base_currency_id": 25,
+      "base_currency_symbol": {
+        "en": "atom",
+        "fa": "\u0627\u062a\u0645"
+      },
+      "quote_currency_id": 2,
+      "quote_currency_symbol": {
+        "en": "irr",
+        "fa": "\u0631\u06cc\u0627\u0644"
+      },
+      "financial": {
+        "last24h": {
+          "open": 2856716,
+          "close": 2480550,
+          "highest": 3000000,
+          "lowest": 2400000,
+          "quote_volume": 1659456533,
+          "base_volume": 630.1981,
+          "change_percent": -13.16
+        }
+      },
+      "price_step": 2568,
+      "amount_step": 0.3893,
+      "tv_symbol": {
+        "ramzinex": "atomirr",
+        "international": "BINANCE:ATOMUSDT"
+      },
+      "show_order": 104
+    },
+    {
+      "sell": 59998,
+      "buy": 58499,
+      "pair_id": 40,
+      "name": {
+        "fa": "\u0686\u06cc\u0644\u06cc\u0632",
+        "en": "chiliz\/rial"
+      },
+      "icon": "\/exchange\/img\/coins\/chz.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/40",
+      "base_precision": 3,
+      "quote_precision": 0,
+      "base_currency_id": 23,
+      "base_currency_symbol": {
+        "en": "chz",
+        "fa": "\u0686\u06cc\u0644\u06cc\u0632"
+      },
+      "quote_currency_id": 2,
+      "quote_currency_symbol": {
+        "en": "irr",
+        "fa": "\u0631\u06cc\u0627\u0644"
+      },
+      "financial": {
+        "last24h": {
+          "open": 67702,
+          "close": 59104,
+          "highest": 71988,
+          "lowest": 57677,
+          "quote_volume": 16146682989,
+          "base_volume": 250661.801,
+          "change_percent": -12.69
+        }
+      },
+      "price_step": 59,
+      "amount_step": 16.666,
+      "tv_symbol": {
+        "ramzinex": "chzirr",
+        "international": "BINANCE:CHZUSDT"
+      },
+      "show_order": 107
+    },
+    {
+      "sell": 56240000,
+      "buy": 53340000,
+      "pair_id": 36,
+      "name": {
+        "fa": "\u0622\u0648\u06cc",
+        "en": "AAVE\/rial"
+      },
+      "icon": "\/exchange\/img\/coins\/AAVE.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/36",
+      "base_precision": 6,
+      "quote_precision": 0,
+      "base_currency_id": 21,
+      "base_currency_symbol": {
+        "en": "AAVE",
+        "fa": "\u0622\u0648\u06cc"
+      },
+      "quote_currency_id": 2,
+      "quote_currency_symbol": {
+        "en": "irr",
+        "fa": "\u0631\u06cc\u0627\u0644"
+      },
+      "financial": {
+        "last24h": {
+          "open": 61628310,
+          "close": 53340000,
+          "highest": 66500000,
+          "lowest": 53333331,
+          "quote_volume": 1850527433,
+          "base_volume": 31.186738,
+          "change_percent": -13.44
+        }
+      },
+      "price_step": 56240,
+      "amount_step": 0.01778,
+      "tv_symbol": {
+        "ramzinex": "AAVEirr",
+        "international": "BINANCE:AAVEUSDT"
+      },
+      "show_order": 108
+    },
+    {
+      "sell": 4295115,
+      "buy": 4148000,
+      "pair_id": 34,
+      "name": {
+        "fa": "\u06cc\u0648\u0646\u06cc",
+        "en": "uniswap\/rial"
+      },
+      "icon": "\/exchange\/img\/coins\/uni.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/34",
+      "base_precision": 4,
+      "quote_precision": 0,
+      "base_currency_id": 20,
+      "base_currency_symbol": {
+        "en": "uni",
+        "fa": "\u06cc\u0648\u0646\u06cc \u0633\u0648\u0627\u067e"
+      },
+      "quote_currency_id": 2,
+      "quote_currency_symbol": {
+        "en": "irr",
+        "fa": "\u0631\u06cc\u0627\u0644"
+      },
+      "financial": {
+        "last24h": {
+          "open": 4697900,
+          "close": 4459890,
+          "highest": 5087750,
+          "lowest": 4160000,
+          "quote_volume": 854461582,
+          "base_volume": 180.4192,
+          "change_percent": -5.06
+        }
+      },
+      "price_step": 4295,
+      "amount_step": 0.2328,
+      "tv_symbol": {
+        "ramzinex": "uniirr",
+        "international": "BINANCE:UNIUSDT"
+      },
+      "show_order": 109
+    },
+    {
+      "sell": 490896000,
+      "buy": 480846670,
+      "pair_id": 3,
+      "name": {
+        "fa": "\u0627\u062a\u0631\u06cc\u0648\u0645",
+        "en": "ethereum\/rial"
+      },
+      "icon": "\/exchange\/img\/coins\/eth.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/3",
+      "base_precision": 4,
+      "quote_precision": 0,
+      "base_currency_id": 4,
+      "base_currency_symbol": {
+        "en": "eth",
+        "fa": "\u0627\u062a\u0631\u06cc\u0648\u0645"
+      },
+      "quote_currency_id": 2,
+      "quote_currency_symbol": {
+        "en": "irr",
+        "fa": "\u0631\u06cc\u0627\u0644"
+      },
+      "financial": {
+        "last24h": {
+          "open": 511000000,
+          "close": 476100000,
+          "highest": 550000000,
+          "lowest": 466229273,
+          "quote_volume": 22516366657,
+          "base_volume": 44.7161,
+          "change_percent": -6.82
+        }
+      },
+      "price_step": 490896,
+      "amount_step": 0.002,
+      "tv_symbol": {
+        "ramzinex": "ethirr",
+        "international": "BINANCE:ETHUSDT"
+      },
+      "show_order": 110
+    },
+    {
+      "sell": 4165998,
+      "buy": 4130003,
+      "pair_id": 29,
+      "name": {
+        "fa": "\u062f\u0627\u062a",
+        "en": "polkadot\/rial"
+      },
+      "icon": "\/exchange\/img\/coins\/dot.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/29",
+      "base_precision": 4,
+      "quote_precision": 0,
+      "base_currency_id": 17,
+      "base_currency_symbol": {
+        "en": "dot",
+        "fa": "\u067e\u0648\u0644\u06a9\u0627\u062f\u0627\u062a"
+      },
+      "quote_currency_id": 2,
+      "quote_currency_symbol": {
+        "en": "irr",
+        "fa": "\u0631\u06cc\u0627\u0644"
+      },
+      "financial": {
+        "last24h": {
+          "open": 4821000,
+          "close": 4004509,
+          "highest": 5138800,
+          "lowest": 3958080,
+          "quote_volume": 11216840974,
+          "base_volume": 2467.5047,
+          "change_percent": -16.93
+        }
+      },
+      "price_step": 4165,
+      "amount_step": 0.24,
+      "tv_symbol": {
+        "ramzinex": "dotirr",
+        "international": "BINANCE:DOTUSDT"
+      },
+      "show_order": 112
+    },
+    {
+      "sell": 160100,
+      "buy": 160000,
+      "pair_id": 4,
+      "name": {
+        "fa": "\u0631\u06cc\u067e\u0644",
+        "en": "ripple\/rial"
+      },
+      "icon": "\/exchange\/img\/coins\/xrp.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/4",
+      "base_precision": 1,
+      "quote_precision": 0,
+      "base_currency_id": 6,
+      "base_currency_symbol": {
+        "en": "xrp",
+        "fa": "\u0631\u06cc\u067e\u0644"
+      },
+      "quote_currency_id": 2,
+      "quote_currency_symbol": {
+        "en": "irr",
+        "fa": "\u0631\u06cc\u0627\u0644"
+      },
+      "financial": {
+        "last24h": {
+          "open": 177000,
+          "close": 162300,
+          "highest": 189000,
+          "lowest": 159000,
+          "quote_volume": 10099388029,
+          "base_volume": 59056.9,
+          "change_percent": -8.3
+        }
+      },
+      "price_step": 160,
+      "amount_step": 6.2,
+      "tv_symbol": {
+        "ramzinex": "xrpirr",
+        "international": "BINANCE:XRPUSDT"
+      },
+      "show_order": 120
+    },
+    {
+      "sell": 122999999,
+      "buy": 117000000,
+      "pair_id": 23,
+      "name": {
+        "fa": "\u0628\u06cc\u062a\u200c\u06a9\u0648\u06cc\u0646\u200c\u06a9\u0634",
+        "en": "bitcash\/rial"
+      },
+      "icon": "\/exchange\/img\/coins\/bch.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/23",
+      "base_precision": 4,
+      "quote_precision": 0,
+      "base_currency_id": 13,
+      "base_currency_symbol": {
+        "en": "bch",
+        "fa": "\u0628\u06cc\u062a \u06a9\u0648\u06cc\u0646 \u06a9\u0634"
+      },
+      "quote_currency_id": 2,
+      "quote_currency_symbol": {
+        "en": "irr",
+        "fa": "\u0631\u06cc\u0627\u0644"
+      },
+      "financial": {
+        "last24h": {
+          "open": 123240000,
+          "close": 116000000,
+          "highest": 134197887,
+          "lowest": 115096000,
+          "quote_volume": 380065726,
+          "base_volume": 3.0554,
+          "change_percent": -5.87
+        }
+      },
+      "price_step": 122999,
+      "amount_step": 0.0081,
+      "tv_symbol": {
+        "ramzinex": "bchirr",
+        "international": "BINANCE:BCHUSDT"
+      },
+      "show_order": 121
+    },
+    {
+      "sell": 14684,
+      "buy": 14562,
+      "pair_id": 25,
+      "name": {
+        "fa": "\u062a\u0631\u0648\u0646",
+        "en": "tron\/rial"
+      },
+      "icon": "\/exchange\/img\/coins\/trx.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/25",
+      "base_precision": 4,
+      "quote_precision": 0,
+      "base_currency_id": 14,
+      "base_currency_symbol": {
+        "en": "trx",
+        "fa": "\u062a\u0631\u0648\u0646"
+      },
+      "quote_currency_id": 2,
+      "quote_currency_symbol": {
+        "en": "irr",
+        "fa": "\u0631\u06cc\u0627\u0644"
+      },
+      "financial": {
+        "last24h": {
+          "open": 15820,
+          "close": 14560,
+          "highest": 16459,
+          "lowest": 13758,
+          "quote_volume": 11422280142,
+          "base_volume": 746361.3239,
+          "change_percent": -7.97
+        }
+      },
+      "price_step": 14,
+      "amount_step": 68.0966,
+      "tv_symbol": {
+        "ramzinex": "trxirr",
+        "international": "BINANCE:TRXUSDT"
+      },
+      "show_order": 122
+    },
+    {
+      "sell": 33432000,
+      "buy": 31600000,
+      "pair_id": 5,
+      "name": {
+        "fa": "\u0644\u0627\u06cc\u062a \u06a9\u0648\u06cc\u0646",
+        "en": "litecoin\/rial"
+      },
+      "icon": "\/exchange\/img\/coins\/ltc.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/5",
+      "base_precision": 3,
+      "quote_precision": 0,
+      "base_currency_id": 5,
+      "base_currency_symbol": {
+        "en": "ltc",
+        "fa": "\u0644\u0627\u06cc\u062a \u06a9\u0648\u06cc\u0646"
+      },
+      "quote_currency_id": 2,
+      "quote_currency_symbol": {
+        "en": "irr",
+        "fa": "\u0631\u06cc\u0627\u0644"
+      },
+      "financial": {
+        "last24h": {
+          "open": 36695570,
+          "close": 32573899,
+          "highest": 39600000,
+          "lowest": 30500000,
+          "quote_volume": 1666496275,
+          "base_volume": 47.386,
+          "change_percent": -11.23
+        }
+      },
+      "price_step": 33432,
+      "amount_step": 0.029,
+      "tv_symbol": {
+        "ramzinex": "ltcirr",
+        "international": "BINANCE:LTCUSDT"
+      },
+      "show_order": 130
+    },
+    {
+      "sell": 74200000,
+      "buy": 73500000,
+      "pair_id": 17,
+      "name": {
+        "fa": "\u0628\u0627\u06cc\u0646\u0646\u0633 \u06a9\u0648\u06cc\u0646",
+        "en": "bnb\/rial"
+      },
+      "icon": "\/exchange\/img\/coins\/bnb.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/17",
+      "base_precision": 3,
+      "quote_precision": 0,
+      "base_currency_id": 10,
+      "base_currency_symbol": {
+        "en": "bnb",
+        "fa": "\u0628\u0627\u06cc\u0646\u0646\u0633 \u06a9\u0648\u06cc\u0646"
+      },
+      "quote_currency_id": 2,
+      "quote_currency_symbol": {
+        "en": "irr",
+        "fa": "\u0631\u06cc\u0627\u0644"
+      },
+      "financial": {
+        "last24h": {
+          "open": 78528000,
+          "close": 74500000,
+          "highest": 83000000,
+          "lowest": 72000000,
+          "quote_volume": 13335092782,
+          "base_volume": 172.753,
+          "change_percent": -5.12
+        }
+      },
+      "price_step": 74200,
+      "amount_step": 0.013,
+      "tv_symbol": {
+        "ramzinex": "bnbirr",
+        "international": "BINANCE:BNBUSDT"
+      },
+      "show_order": 150
+    },
+    {
+      "sell": 63999,
+      "buy": 62060,
+      "pair_id": 19,
+      "name": {
+        "fa": "\u0627\u0633\u062a\u0644\u0627\u0631",
+        "en": "stellar\/rial"
+      },
+      "icon": "\/exchange\/img\/coins\/xlm.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/19",
+      "base_precision": 1,
+      "quote_precision": 0,
+      "base_currency_id": 11,
+      "base_currency_symbol": {
+        "en": "xlm",
+        "fa": "\u0627\u0633\u062a\u0644\u0627\u0631"
+      },
+      "quote_currency_id": 2,
+      "quote_currency_symbol": {
+        "en": "irr",
+        "fa": "\u0631\u06cc\u0627\u0644"
+      },
+      "financial": {
+        "last24h": {
+          "open": 69578,
+          "close": 63510,
+          "highest": 72000,
+          "lowest": 62102,
+          "quote_volume": 2345674272,
+          "base_volume": 34735.2,
+          "change_percent": -8.72
+        }
+      },
+      "price_step": 63,
+      "amount_step": 15.6,
+      "tv_symbol": {
+        "ramzinex": "xlmirr",
+        "international": "BINANCE:XLMUSDT"
+      },
+      "show_order": 160
+    },
+    {
+      "sell": 10680000,
+      "buy": 10204000,
+      "pair_id": 21,
+      "name": {
+        "fa": "\u0627\u062a\u0631\u06a9\u0644\u0627\u0633\u06cc\u06a9",
+        "en": "etherclassic\/rial"
+      },
+      "icon": "\/exchange\/img\/coins\/etc.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/21",
+      "base_precision": 3,
+      "quote_precision": 0,
+      "base_currency_id": 12,
+      "base_currency_symbol": {
+        "en": "etc",
+        "fa": "\u0627\u062a\u0631\u06cc\u0648\u0645 \u06a9\u0644\u0627\u0633\u06cc\u06a9"
+      },
+      "quote_currency_id": 2,
+      "quote_currency_symbol": {
+        "en": "irr",
+        "fa": "\u0631\u06cc\u0627\u0644"
+      },
+      "financial": {
+        "last24h": {
+          "open": 11823110,
+          "close": 10600000,
+          "highest": 12350280,
+          "lowest": 9900000,
+          "quote_volume": 6151439634,
+          "base_volume": 548.076,
+          "change_percent": -10.34
+        }
+      },
+      "price_step": 10680,
+      "amount_step": 0.093,
+      "tv_symbol": {
+        "ramzinex": "etcirr",
+        "international": "BINANCE:ETCUSDT"
+      },
+      "show_order": 170
+    },
+    {
+      "sell": 4455113,
+      "buy": 4380000,
+      "pair_id": 26,
+      "name": {
+        "fa": "\u0644\u06cc\u0646\u06a9",
+        "en": "link\/rial"
+      },
+      "icon": "\/exchange\/img\/coins\/link.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/26",
+      "base_precision": 4,
+      "quote_precision": 0,
+      "base_currency_id": 15,
+      "base_currency_symbol": {
+        "en": "link",
+        "fa": "\u0644\u06cc\u0646\u06a9"
+      },
+      "quote_currency_id": 2,
+      "quote_currency_symbol": {
+        "en": "irr",
+        "fa": "\u0631\u06cc\u0627\u0644"
+      },
+      "financial": {
+        "last24h": {
+          "open": 4910500,
+          "close": 4400000,
+          "highest": 5385000,
+          "lowest": 4300740,
+          "quote_volume": 2368178646,
+          "base_volume": 482.1885,
+          "change_percent": -10.39
+        }
+      },
+      "price_step": 4455,
+      "amount_step": 0.2244,
+      "tv_symbol": {
+        "ramzinex": "linkirr",
+        "international": "BINANCE:LINKUSDT"
+      },
+      "show_order": 199
+    },
+    {
+      "sell": 32668.99,
+      "buy": 32295,
+      "pair_id": 12,
+      "name": {
+        "fa": "\u0628\u06cc\u062a \u06a9\u0648\u06cc\u0646\/\u062a\u062a\u0631",
+        "en": "bitcoin\/tether"
+      },
+      "icon": "\/exchange\/img\/coins\/btc.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/12",
+      "base_precision": 5,
+      "quote_precision": 2,
+      "base_currency_id": 1,
+      "base_currency_symbol": {
+        "en": "btc",
+        "fa": "\u0628\u06cc\u062a \u06a9\u0648\u06cc\u0646"
+      },
+      "quote_currency_id": 9,
+      "quote_currency_symbol": {
+        "en": "usdt",
+        "fa": "\u062a\u062a\u0631"
+      },
+      "financial": {
+        "last24h": {
+          "open": 34000,
+          "close": 34000,
+          "highest": 36400,
+          "lowest": 32599,
+          "quote_volume": 2225.29,
+          "base_volume": 0.06569,
+          "change_percent": 0
+        }
+      },
+      "price_step": 32,
+      "amount_step": 30.60913,
+      "tv_symbol": {
+        "ramzinex": "btcusdt",
+        "international": "BINANCE:BTCUSDT"
+      },
+      "show_order": 210
+    },
+    {
+      "sell": 2040,
+      "buy": 1930,
+      "pair_id": 13,
+      "name": {
+        "fa": "\u0627\u062a\u0631\u06cc\u0648\u0645\/\u062a\u062a\u0631",
+        "en": "ethereum\/tether"
+      },
+      "icon": "\/exchange\/img\/coins\/eth.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/13",
+      "base_precision": 4,
+      "quote_precision": 2,
+      "base_currency_id": 4,
+      "base_currency_symbol": {
+        "en": "eth",
+        "fa": "\u0627\u062a\u0631\u06cc\u0648\u0645"
+      },
+      "quote_currency_id": 9,
+      "quote_currency_symbol": {
+        "en": "usdt",
+        "fa": "\u062a\u062a\u0631"
+      },
+      "financial": {
+        "last24h": {
+          "open": 2150,
+          "close": 1949,
+          "highest": 2400,
+          "lowest": 1925,
+          "quote_volume": 3855.2,
+          "base_volume": 1.8151,
+          "change_percent": -9.3
+        }
+      },
+      "price_step": 2,
+      "amount_step": 489.9559,
+      "tv_symbol": {
+        "ramzinex": "ethusdt",
+        "international": "BINANCE:ETHUSDT"
+      },
+      "show_order": 220
+    },
+    {
+      "sell": 292.98,
+      "buy": 216.3,
+      "pair_id": 37,
+      "name": {
+        "fa": "\u0622\u0648\u06cc\/\u062a\u062a\u0631",
+        "en": "AAVE\/tether"
+      },
+      "icon": "\/exchange\/img\/coins\/AAVE.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/37",
+      "base_precision": 6,
+      "quote_precision": 2,
+      "base_currency_id": 21,
+      "base_currency_symbol": {
+        "en": "AAVE",
+        "fa": "\u0622\u0648\u06cc"
+      },
+      "quote_currency_id": 9,
+      "quote_currency_symbol": {
+        "en": "usdt",
+        "fa": "\u062a\u062a\u0631"
+      },
+      "financial": {
+        "last24h": {
+          "open": 300,
+          "close": 216,
+          "highest": 300,
+          "lowest": 216,
+          "quote_volume": 135.64,
+          "base_volume": 0.542379,
+          "change_percent": -27.89
+        }
+      },
+      "price_step": 0,
+      "amount_step": 3401.591945,
+      "tv_symbol": {
+        "ramzinex": "AAVEusdt",
+        "international": "BINANCE:AAVEUSDT"
+      },
+      "show_order": 221
+    },
+    {
+      "sell": 19,
+      "buy": 17,
+      "pair_id": 31,
+      "name": {
+        "fa": "\u062f\u0627\u062a\/\u062a\u062a\u0631",
+        "en": "polkadot\/tether"
+      },
+      "icon": "\/exchange\/img\/coins\/dot.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/31",
+      "base_precision": 4,
+      "quote_precision": 2,
+      "base_currency_id": 17,
+      "base_currency_symbol": {
+        "en": "dot",
+        "fa": "\u067e\u0648\u0644\u06a9\u0627\u062f\u0627\u062a"
+      },
+      "quote_currency_id": 9,
+      "quote_currency_symbol": {
+        "en": "usdt",
+        "fa": "\u062a\u062a\u0631"
+      },
+      "financial": {
+        "last24h": {
+          "open": 20,
+          "close": 19,
+          "highest": 21,
+          "lowest": 17,
+          "quote_volume": 360.68,
+          "base_volume": 19.1497,
+          "change_percent": -5
+        }
+      },
+      "price_step": 0,
+      "amount_step": 50000,
+      "tv_symbol": {
+        "ramzinex": "dotusdt",
+        "international": "BINANCE:DOTUSDT"
+      },
+      "show_order": 222
+    },
+    {
+      "sell": 599,
+      "buy": 402,
+      "pair_id": 24,
+      "name": {
+        "fa": "\u0628\u06cc\u062a \u06a9\u0648\u06cc\u0646 \u06a9\u0634\/\u062a\u062a\u0631",
+        "en": "bitcash\/tether"
+      },
+      "icon": "\/exchange\/img\/coins\/bch.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/24",
+      "base_precision": 4,
+      "quote_precision": 2,
+      "base_currency_id": 13,
+      "base_currency_symbol": {
+        "en": "bch",
+        "fa": "\u0628\u06cc\u062a \u06a9\u0648\u06cc\u0646 \u06a9\u0634"
+      },
+      "quote_currency_id": 9,
+      "quote_currency_symbol": {
+        "en": "usdt",
+        "fa": "\u062a\u062a\u0631"
+      },
+      "financial": {
+        "last24h": {
+          "open": 515,
+          "close": 400,
+          "highest": 515,
+          "lowest": 400,
+          "quote_volume": 8.71,
+          "base_volume": 0.0173,
+          "change_percent": -22.33
+        }
+      },
+      "price_step": 0,
+      "amount_step": 1666.6666,
+      "tv_symbol": {
+        "ramzinex": "bchusdt",
+        "international": "BINANCE:BCHUSDT"
+      },
+      "show_order": 225
+    },
+    {
+      "sell": 1.079,
+      "buy": 0.6,
+      "pair_id": 14,
+      "name": {
+        "fa": "\u0631\u06cc\u067e\u0644\/\u062a\u062a\u0631",
+        "en": "ripple\/tether"
+      },
+      "icon": "\/exchange\/img\/coins\/xrp.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/14",
+      "base_precision": 1,
+      "quote_precision": 3,
+      "base_currency_id": 6,
+      "base_currency_symbol": {
+        "en": "xrp",
+        "fa": "\u0631\u06cc\u067e\u0644"
+      },
+      "quote_currency_id": 9,
+      "quote_currency_symbol": {
+        "en": "usdt",
+        "fa": "\u062a\u062a\u0631"
+      },
+      "financial": {
+        "last24h": {
+          "open": 1,
+          "close": 1,
+          "highest": 1,
+          "lowest": 1,
+          "quote_volume": 0,
+          "base_volume": 0,
+          "change_percent": 1
+        }
+      },
+      "price_step": 0,
+      "amount_step": 481000.4,
+      "tv_symbol": {
+        "ramzinex": "xrpusdt",
+        "international": "BINANCE:XRPUSDT"
+      },
+      "show_order": 230
+    },
+    {
+      "sell": 0.09,
+      "buy": 0.07,
+      "pair_id": 27,
+      "name": {
+        "fa": "\u062a\u0631\u0648\u0646\/\u062a\u062a\u0631",
+        "en": "tron\/tether"
+      },
+      "icon": "\/exchange\/img\/coins\/trx.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/27",
+      "base_precision": 4,
+      "quote_precision": 3,
+      "base_currency_id": 14,
+      "base_currency_symbol": {
+        "en": "trx",
+        "fa": "\u062a\u0631\u0648\u0646"
+      },
+      "quote_currency_id": 9,
+      "quote_currency_symbol": {
+        "en": "usdt",
+        "fa": "\u062a\u062a\u0631"
+      },
+      "financial": {
+        "last24h": {
+          "open": 1,
+          "close": 1,
+          "highest": 1,
+          "lowest": 1,
+          "quote_volume": 0,
+          "base_volume": 0,
+          "change_percent": 1
+        }
+      },
+      "price_step": 0,
+      "amount_step": 917431.1926,
+      "tv_symbol": {
+        "ramzinex": "trxusdt",
+        "international": "BINANCE:TRXUSDT"
+      },
+      "show_order": 235
+    },
+    {
+      "sell": 172,
+      "buy": 121.5,
+      "pair_id": 15,
+      "name": {
+        "fa": "\u0644\u0627\u06cc\u062a \u06a9\u0648\u06cc\u0646\/\u062a\u062a\u0631",
+        "en": "litecoin\/tether"
+      },
+      "icon": "\/exchange\/img\/coins\/ltc.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/15",
+      "base_precision": 3,
+      "quote_precision": 2,
+      "base_currency_id": 5,
+      "base_currency_symbol": {
+        "en": "ltc",
+        "fa": "\u0644\u0627\u06cc\u062a \u06a9\u0648\u06cc\u0646"
+      },
+      "quote_currency_id": 9,
+      "quote_currency_symbol": {
+        "en": "usdt",
+        "fa": "\u062a\u062a\u0631"
+      },
+      "financial": {
+        "last24h": {
+          "open": 145,
+          "close": 145,
+          "highest": 171,
+          "lowest": 144,
+          "quote_volume": 130.11,
+          "base_volume": 0.896,
+          "change_percent": -0.01
+        }
+      },
+      "price_step": 0,
+      "amount_step": 5780.346,
+      "tv_symbol": {
+        "ramzinex": "ltcusdt",
+        "international": "BINANCE:LTCUSDT"
+      },
+      "show_order": 240
+    },
+    {
+      "sell": 323.7,
+      "buy": 302,
+      "pair_id": 18,
+      "name": {
+        "fa": "\u0628\u0627\u06cc\u0646\u0646\u0633 \u06a9\u0648\u06cc\u0646\/\u062a\u062a\u0631",
+        "en": "bnb\/tether"
+      },
+      "icon": "\/exchange\/img\/coins\/bnb.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/18",
+      "base_precision": 3,
+      "quote_precision": 2,
+      "base_currency_id": 10,
+      "base_currency_symbol": {
+        "en": "bnb",
+        "fa": "\u0628\u0627\u06cc\u0646\u0646\u0633 \u06a9\u0648\u06cc\u0646"
+      },
+      "quote_currency_id": 9,
+      "quote_currency_symbol": {
+        "en": "usdt",
+        "fa": "\u062a\u062a\u0631"
+      },
+      "financial": {
+        "last24h": {
+          "open": 334,
+          "close": 354,
+          "highest": 354,
+          "lowest": 301,
+          "quote_volume": 1096.09,
+          "base_volume": 3.393,
+          "change_percent": 5.92
+        }
+      },
+      "price_step": 0,
+      "amount_step": 3079.765,
+      "tv_symbol": {
+        "ramzinex": "bnbusdt",
+        "international": "BINANCE:BNBUSDT"
+      },
+      "show_order": 250
+    },
+    {
+      "sell": 0.459,
+      "buy": 0.02,
+      "pair_id": 20,
+      "name": {
+        "fa": "\u0627\u0633\u062a\u0644\u0627\u0631\/\u062a\u062a\u0631",
+        "en": "stellar\/tether"
+      },
+      "icon": "\/exchange\/img\/coins\/xlm.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/20",
+      "base_precision": 1,
+      "quote_precision": 3,
+      "base_currency_id": 11,
+      "base_currency_symbol": {
+        "en": "xlm",
+        "fa": "\u0627\u0633\u062a\u0644\u0627\u0631"
+      },
+      "quote_currency_id": 9,
+      "quote_currency_symbol": {
+        "en": "usdt",
+        "fa": "\u062a\u062a\u0631"
+      },
+      "financial": {
+        "last24h": {
+          "open": 1,
+          "close": 1,
+          "highest": 1,
+          "lowest": 1,
+          "quote_volume": 0,
+          "base_volume": 0,
+          "change_percent": 1
+        }
+      },
+      "price_step": 0,
+      "amount_step": 685400.9,
+      "tv_symbol": {
+        "ramzinex": "xlmusdt",
+        "international": "BINANCE:XLMUSDT"
+      },
+      "show_order": 260
+    },
+    {
+      "sell": 49.99,
+      "buy": 26.05,
+      "pair_id": 22,
+      "name": {
+        "fa": "\u0627\u062a\u0631\u06a9\u0644\u0627\u0633\u06cc\u06a9\/\u062a\u062a\u0631",
+        "en": "etherclassic\/tether"
+      },
+      "icon": "\/exchange\/img\/coins\/etc.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/22",
+      "base_precision": 3,
+      "quote_precision": 2,
+      "base_currency_id": 12,
+      "base_currency_symbol": {
+        "en": "etc",
+        "fa": "\u0627\u062a\u0631\u06cc\u0648\u0645 \u06a9\u0644\u0627\u0633\u06cc\u06a9"
+      },
+      "quote_currency_id": 9,
+      "quote_currency_symbol": {
+        "en": "usdt",
+        "fa": "\u062a\u062a\u0631"
+      },
+      "financial": {
+        "last24h": {
+          "open": 50,
+          "close": 50,
+          "highest": 51,
+          "lowest": 2,
+          "quote_volume": 83.52,
+          "base_volume": 1.889,
+          "change_percent": -1.96
+        }
+      },
+      "price_step": 0,
+      "amount_step": 19611.688,
+      "tv_symbol": {
+        "ramzinex": "etcusdt",
+        "international": "BINANCE:ETCUSDT"
+      },
+      "show_order": 270
+    },
+    {
+      "sell": 21.75,
+      "buy": 18.05,
+      "pair_id": 38,
+      "name": {
+        "fa": "\u0644\u06cc\u0646\u06a9\/\u062a\u062a\u0631",
+        "en": "link\/tether"
+      },
+      "icon": "\/exchange\/img\/coins\/link.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/38",
+      "base_precision": 4,
+      "quote_precision": 2,
+      "base_currency_id": 15,
+      "base_currency_symbol": {
+        "en": "link",
+        "fa": "\u0644\u06cc\u0646\u06a9"
+      },
+      "quote_currency_id": 9,
+      "quote_currency_symbol": {
+        "en": "usdt",
+        "fa": "\u062a\u062a\u0631"
+      },
+      "financial": {
+        "last24h": {
+          "open": 18,
+          "close": 18,
+          "highest": 21,
+          "lowest": 18,
+          "quote_volume": 138.01,
+          "base_volume": 6.44,
+          "change_percent": -3.98
+        }
+      },
+      "price_step": 0,
+      "amount_step": 43956.0439,
+      "tv_symbol": {
+        "ramzinex": "linkusdt",
+        "international": "BINANCE:LINKUSDT"
+      },
+      "show_order": 272
+    },
+    {
+      "sell": 22,
+      "buy": 17,
+      "pair_id": 35,
+      "name": {
+        "fa": "\u06cc\u0648\u0646\u06cc\/\u062a\u062a\u0631",
+        "en": "uniswap\/tether"
+      },
+      "icon": "\/exchange\/img\/coins\/uni.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/35",
+      "base_precision": 4,
+      "quote_precision": 2,
+      "base_currency_id": 20,
+      "base_currency_symbol": {
+        "en": "uni",
+        "fa": "\u06cc\u0648\u0646\u06cc \u0633\u0648\u0627\u067e"
+      },
+      "quote_currency_id": 9,
+      "quote_currency_symbol": {
+        "en": "usdt",
+        "fa": "\u062a\u062a\u0631"
+      },
+      "financial": {
+        "last24h": {
+          "open": 24,
+          "close": 22,
+          "highest": 24,
+          "lowest": 17,
+          "quote_volume": 76.85,
+          "base_volume": 3.6099,
+          "change_percent": -9.19
+        }
+      },
+      "price_step": 0,
+      "amount_step": 43478.2608,
+      "tv_symbol": {
+        "ramzinex": "uniusdt",
+        "international": "BINANCE:UNIUSDT"
+      },
+      "show_order": 275
+    },
+    {
+      "sell": 12.5,
+      "buy": 10.01,
+      "pair_id": 43,
+      "name": {
+        "fa": "\u0627\u062a\u0645\/\u062a\u062a\u0631",
+        "en": "atom\/tether"
+      },
+      "icon": "\/exchange\/img\/coins\/atom.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/43",
+      "base_precision": 4,
+      "quote_precision": 2,
+      "base_currency_id": 25,
+      "base_currency_symbol": {
+        "en": "atom",
+        "fa": "\u0627\u062a\u0645"
+      },
+      "quote_currency_id": 9,
+      "quote_currency_symbol": {
+        "en": "usdt",
+        "fa": "\u062a\u062a\u0631"
+      },
+      "financial": {
+        "last24h": {
+          "open": 11,
+          "close": 10,
+          "highest": 12,
+          "lowest": 10,
+          "quote_volume": 42.55,
+          "base_volume": 3.8546,
+          "change_percent": -11.03
+        }
+      },
+      "price_step": 0,
+      "amount_step": 74074.074,
+      "tv_symbol": {
+        "ramzinex": "atomusdt",
+        "international": "BINANCE:ATOMUSDT"
+      },
+      "show_order": 500
+    },
+    {
+      "sell": 9,
+      "buy": 7.14,
+      "pair_id": 45,
+      "name": {
+        "fa": "\u062a\u062a\u0627\/\u062a\u062a\u0631",
+        "en": "theta\/tether"
+      },
+      "icon": "\/exchange\/img\/coins\/theta.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/45",
+      "base_precision": 4,
+      "quote_precision": 2,
+      "base_currency_id": 26,
+      "base_currency_symbol": {
+        "en": "theta",
+        "fa": "\u062a\u062a\u0627"
+      },
+      "quote_currency_id": 9,
+      "quote_currency_symbol": {
+        "en": "usdt",
+        "fa": "\u062a\u062a\u0631"
+      },
+      "financial": {
+        "last24h": {
+          "open": 8,
+          "close": 8,
+          "highest": 8,
+          "lowest": 8,
+          "quote_volume": 24.94,
+          "base_volume": 2.8628,
+          "change_percent": 1.26
+        }
+      },
+      "price_step": 0,
+      "amount_step": 100000,
+      "tv_symbol": {
+        "ramzinex": "thetausdt",
+        "international": "BINANCE:THETAUSDT"
+      },
+      "show_order": 600
+    },
+    {
+      "sell": 179,
+      "buy": 179,
+      "pair_id": 61,
+      "name": {
+        "fa": "\u0634\u06cc\u0628\u0627(\u0635\u062f\u062a\u0627\u06cc\u06cc)",
+        "en": "shiba100x\/rial"
+      },
+      "icon": "\/exchange\/img\/coins\/100shib.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/61",
+      "base_precision": 2,
+      "quote_precision": 0,
+      "base_currency_id": 46,
+      "base_currency_symbol": {
+        "en": "100shib",
+        "fa": "\u0634\u06cc\u0628\u0627(\u0635\u062f\u062a\u0627\u06cc\u06cc)"
+      },
+      "quote_currency_id": 2,
+      "quote_currency_symbol": {
+        "en": "irr",
+        "fa": "\u0631\u06cc\u0627\u0644"
+      },
+      "financial": {
+        "last24h": {
+          "open": 195,
+          "close": 182,
+          "highest": 205,
+          "lowest": 170,
+          "quote_volume": 101090312045,
+          "base_volume": 530097314.53,
+          "change_percent": -7.14
+        }
+      },
+      "price_step": 0,
+      "amount_step": 5555.55,
+      "tv_symbol": {
+        "ramzinex": "shiba100xirr",
+        "international": "BINANCE:shibUSDT"
+      },
+      "show_order": 1000
+    },
+    {
+      "sell": 15919,
+      "buy": 15100,
+      "pair_id": 66,
+      "name": {
+        "fa": "\u0627\u0646\u06a9\u0631",
+        "en": "ankr\/rial"
+      },
+      "icon": "\/exchange\/img\/coins\/ankr.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/66",
+      "base_precision": 1,
+      "quote_precision": 0,
+      "base_currency_id": 51,
+      "base_currency_symbol": {
+        "en": "ankr",
+        "fa": "\u0627\u0646\u06a9\u0631"
+      },
+      "quote_currency_id": 2,
+      "quote_currency_symbol": {
+        "en": "irr",
+        "fa": "\u0631\u06cc\u0627\u0644"
+      },
+      "financial": {
+        "last24h": {
+          "open": 17119,
+          "close": 15919,
+          "highest": 19995,
+          "lowest": 14999,
+          "quote_volume": 1462705437,
+          "base_volume": 85033.2,
+          "change_percent": -7
+        }
+      },
+      "price_step": 15,
+      "amount_step": 62.8,
+      "tv_symbol": {
+        "ramzinex": "ankrirr",
+        "international": "BINANCE:ANKRUSDT"
+      },
+      "show_order": 1000
+    },
+    {
+      "sell": 335000,
+      "buy": 330000,
+      "pair_id": 71,
+      "name": {
+        "fa": "\u067e\u0627\u0644\u06cc\u200c\u06af\u0627\u0646(\u0645\u0627\u062a\u06cc\u06a9)",
+        "en": "polygon\/rial"
+      },
+      "icon": "\/exchange\/img\/coins\/matic.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/71",
+      "base_precision": 2,
+      "quote_precision": 0,
+      "base_currency_id": 56,
+      "base_currency_symbol": {
+        "en": "matic",
+        "fa": "\u067e\u0627\u0644\u06cc\u200c\u06af\u0627\u0646(\u0645\u0627\u062a\u06cc\u06a9)"
+      },
+      "quote_currency_id": 2,
+      "quote_currency_symbol": {
+        "en": "irr",
+        "fa": "\u0631\u06cc\u0627\u0644"
+      },
+      "financial": {
+        "last24h": {
+          "open": 361009,
+          "close": 335000,
+          "highest": 397000,
+          "lowest": 320000,
+          "quote_volume": 5224211784,
+          "base_volume": 14492.52,
+          "change_percent": -7.2
+        }
+      },
+      "price_step": 335,
+      "amount_step": 2.98,
+      "tv_symbol": {
+        "ramzinex": "maticirr",
+        "international": "BINANCE:MATICUSDT"
+      },
+      "show_order": 1000
+    },
+    {
+      "sell": 207000,
+      "buy": 205000,
+      "pair_id": 50,
+      "name": {
+        "fa": "\u067e\u0627\u0646\u062f\u06cc\u200c\u0627\u06cc\u06a9\u0633",
+        "en": "pundix\/rial"
+      },
+      "icon": "\/exchange\/img\/coins\/pundix.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/50",
+      "base_precision": 4,
+      "quote_precision": 0,
+      "base_currency_id": 30,
+      "base_currency_symbol": {
+        "en": "pundix",
+        "fa": "\u067e\u0627\u0646\u062f\u06cc\u06a9\u0633"
+      },
+      "quote_currency_id": 2,
+      "quote_currency_symbol": {
+        "en": "irr",
+        "fa": "\u0631\u06cc\u0627\u0644"
+      },
+      "financial": {
+        "last24h": {
+          "open": 249999,
+          "close": 200481,
+          "highest": 310000,
+          "lowest": 200000,
+          "quote_volume": 44024191338,
+          "base_volume": 174897.334,
+          "change_percent": -19.8
+        }
+      },
+      "price_step": 207,
+      "amount_step": 4.8308,
+      "tv_symbol": {
+        "ramzinex": "pundixirr",
+        "international": "BINANCE:PUNDIXUSDT"
+      },
+      "show_order": 9999
+    },
+    {
+      "sell": 72031,
+      "buy": 69500,
+      "pair_id": 57,
+      "name": {
+        "fa": "\u062a\u0631\u0627\u0633\u062a",
+        "en": "trust\/rial"
+      },
+      "icon": "\/exchange\/img\/coins\/twt.png",
+      "web_link": "https:\/\/ramzinex.com\/exchange\/orderbook\/57",
+      "base_precision": 2,
+      "quote_precision": 0,
+      "base_currency_id": 42,
+      "base_currency_symbol": {
+        "en": "twt",
+        "fa": "\u062a\u0631\u0627\u0633\u062a"
+      },
+      "quote_currency_id": 2,
+      "quote_currency_symbol": {
+        "en": "irr",
+        "fa": "\u0631\u06cc\u0627\u0644"
+      },
+      "financial": {
+        "last24h": {
+          "open": 73401,
+          "close": 69501,
+          "highest": 82650,
+          "lowest": 69080,
+          "quote_volume": 723930167,
+          "base_volume": 9953.09,
+          "change_percent": -5.31
+        }
+      },
+      "price_step": 72,
+      "amount_step": 13.88,
+      "tv_symbol": {
+        "ramzinex": "twtirr",
+        "international": "BINANCE:TWTUSDT"
+      },
+      "show_order": 100000
+    }
+  ]
+}
