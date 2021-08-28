@@ -9,8 +9,19 @@ class CryptoCurrenciesRepository
         $this->baseUrl = $baseUrl;
     }
 
+    private function get($url)
+    {
+        $cu = curl_init($url);
+        curl_setopt($cu, CURLOPT_RETURNTRANSFER, true);
+        $response = curl_exec($cu);
+        curl_close($cu);
+        $response = json_decode($response, true);
+        return $response;
+    }
+
     public function getAllCryptoPrices(): array
     {
-        // TODO: Implement
+        $response = $this->get($this->baseUrl . '/exchange/api/v1.0/exchange/pairs');
+        return $response['data'];
     }
 }
